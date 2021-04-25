@@ -4,8 +4,8 @@
 
 #### Prazer, Sou o Luiz Gabriel! Fascinado por desenvolver Soluções👾💻
   
-• Graduando em Analise de Sistema na Uniritter, cursando o  1º Semestre.<br>
-• Tenho experiencia com Wordpress, Git, Github, Html e Css.  
+• Graduando em Análise e Desenvolvimento de Sistema na Uniritter, cursando o  1º Semestre.<br>
+• Tenho experiência com Wordpress, Git, Github, Html e Css.  
 • No momento estudando a stack: Javascript, NodeJs, React Native e ReactJS<br>
 • Apaixonado por desenvolvimento de software e entusiasta da criação de jogos.
   
