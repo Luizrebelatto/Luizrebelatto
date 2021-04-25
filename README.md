@@ -1,6 +1,6 @@
 ## Olá, Seja bem-vindo(a)!!
 
-<img align="right" src="https://github.com/Luizrebelatto/Luizrebelatto/blob/main/imagem.jpg" width="425"/>
+<img align="right" src="https://github.com/Luizrebelatto/Luizrebelatto/blob/main/imagem.jpg" width="400"/>
 
 #### Prazer, Sou o Luiz Gabriel! Fascinado por desenvolver Soluções👾💻
   
