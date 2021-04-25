@@ -6,9 +6,9 @@
   
 • Graduando em Analise de Sistema na Uniritter, cursando o  1º Semestre. 
 
-• Tenho experiencia com Wordpress, Git, Github, Html e Css.  
+ • Tenho experiencia com Wordpress, Git, Github, Html e Css.  
  • No momento estudando a stack: Javascript, NodeJs, React Native e ReactJS
-• Apaixonado por desenvolvimento de software e entusiasta da criação de jogos.
+ • Apaixonado por desenvolvimento de software e entusiasta da criação de jogos.
   
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedor mobile e web.  
   
