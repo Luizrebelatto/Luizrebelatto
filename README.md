@@ -1,6 +1,6 @@
 ## Olá, Seja bem-vindo(a)!!
 
-<img align="right" src="https://github.com/Luizrebelatto/Luizrebelatto/master/imagem.jpg" width="425"/>
+<img align="right" src="https://github.com/felipesantos10/felipesantos10/blob/master/image.png" width="425"/>
 
 #### Prazer, Sou o Luiz Gabriel!   👾 💻
   
