@@ -1,8 +1,8 @@
-## Olá, Mundo!🌎 Seja bem-vindo(a)
+## Olá, Seja bem-vindo(a)!!
 
-<img align="right" src="https://github.com/felipesantos10/felipesantos10/blob/master/image.png" width="425"/>
+<img align="right" src="<a href='https://www.freepik.com/vectors/banner'>Banner vector created by roserodionova - www.freepik.com</a>" width="425"/>
 
-#### Prazer, Sou o Felipe! Um cara que ama tecnologia  👨‍💻
+#### Prazer, Sou o Luiz Gabriel!   👾 💻
   
 • Graduando em Analise de Sistema na Uniritter, cursando o  1º Semestre.
 • Tenho experiencia com Scrum, Figma, Python, Linux, Git, Github  
