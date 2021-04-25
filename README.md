@@ -1,6 +1,6 @@
 ## Olá, Seja bem-vindo(a)!!
 
-<img align="right" src="<a href='https://www.freepik.com/vectors/banner'>Banner vector created by roserodionova - www.freepik.com</a>" width="425"/>
+<img align="right" src="https://github.com/Luizrebelatto/Luizrebelatto/blob/master/image.png" width="425"/>
 
 #### Prazer, Sou o Luiz Gabriel!   👾 💻
   
