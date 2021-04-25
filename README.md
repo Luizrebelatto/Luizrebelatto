@@ -1,16 +1,25 @@
-### Hi there 👋
+## Olá, Mundo!🌎 Seja bem-vindo(a)
 
-<!--
-**Luizrebelatto/Luizrebelatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github.com/felipesantos10/felipesantos10/blob/master/image.png" width="425"/>
 
-Here are some ideas to get you started:
+#### Prazer, Sou o Felipe! Um cara que ama tecnologia  👨‍💻
+  
+• Graduando em Analise de Sistema na Uniritter, cursando o  1º Semestre.
+• Tenho experiencia com Scrum, Figma, Python, Linux, Git, Github  
+• No momento estudando a stack: Javascript, NodeJs, React Native e ReactJS
+  
+• 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack.  
+  
+There is always something new to learn  🚀 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contato**
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-gabriel-rebelatto-bianchi-67097413b/)](https://www.linkedin.com/in/luiz-gabriel-rebelatto-bianchi-67097413b/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtolbrebelatto@gmail.com)](mailto:lbrebelatto@gmail.com)
+<p align = "center">
+  <a href="https://github.com/Luizrebelatto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizrebelatto&layout=compact&theme=dark"/></a> 
+  <a href="https://github.com/Luizrebelatto"><img src="https://github-readme-stats.vercel.app/api?username=Luizrebelatto&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Luizrebelatto"/></a>
+</p> 
+  
+
+ 
+
