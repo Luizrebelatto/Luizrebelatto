@@ -19,6 +19,7 @@ There is always something new to learn  🚀
   <a href="https://github.com/Luizrebelatto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizrebelatto&layout=compact&theme=dark"/></a> 
   <a href="https://github.com/Luizrebelatto"><img src="https://github-readme-stats.vercel.app/api?username=Luizrebelatto&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Luizrebelatto"/></a>
 </p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizrebelatto&show_icons=true&locale=en&layout=compact" alt="luizrebelatto" /></p>
   
 
  
