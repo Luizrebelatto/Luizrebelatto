@@ -1,12 +1,12 @@
 ## Olá, Seja bem-vindo(a)!!
 
-<img align="right" src="https://github.com/Luizrebelatto/Luizrebelatto/blob/main/imagem.jpg" width="400" style="border-radius: 10px"/>
+<img align="right" src="https://github.com/Luizrebelatto/Luizrebelatto/blob/main/imagem.jpg" width="400"/>
 
 #### Prazer, Sou o Luiz Gabriel! Fascinado por desenvolver Soluções👾💻
   
-• Graduando em Analise de Sistema na Uniritter, cursando o  1º Semestre. 
+• Graduando em Analise de Sistema na Uniritter, cursando o  1º Semestre.<br>
 • Tenho experiencia com Wordpress, Git, Github, Html e Css.  
-• No momento estudando a stack: Javascript, NodeJs, React Native e ReactJS
+• No momento estudando a stack: Javascript, NodeJs, React Native e ReactJS<br>
 • Apaixonado por desenvolvimento de software e entusiasta da criação de jogos.
   
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedor mobile e web.  
