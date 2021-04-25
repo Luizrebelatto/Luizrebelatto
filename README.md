@@ -9,7 +9,7 @@
 • No momento estudando a stack: Javascript, NodeJs, React Native e ReactJS
 • Apaixonado por desenvolvimento de software e entusiasta da criação de jogos.
   
-• 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack.  
+• 🎯 Objetivo: Pretendo me tornar Desenvolvedor mobile e web.  
   
 Vá sempre além do que é esperado!!!🚀 
 
