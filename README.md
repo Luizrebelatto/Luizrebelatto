@@ -20,8 +20,8 @@ Vá sempre além do que é esperado!!!🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-gabriel-rebelatto-bianchi-67097413b/)](https://www.linkedin.com/in/luiz-gabriel-rebelatto-bianchi-67097413b/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtolbrebelatto@gmail.com)](mailto:lbrebelatto@gmail.com)
 <p align = "center">
-  <a href="https://github.com/Luizrebelatto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizrebelatto&layout=compact&theme=dark"/></a> 
-  <a href="https://github.com/Luizrebelatto"><img src="https://github-readme-stats.vercel.app/api?username=Luizrebelatto&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Luizrebelatto"/></a>
+  <a href="https://github.com/Luizrebelatto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizrebelatto&layout=compact&theme=cobalt"/></a> 
+  <a href="https://github.com/Luizrebelatto"><img src="https://github-readme-stats.vercel.app/api?username=Luizrebelatto&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="Luizrebelatto"/></a>
 </p> 
 
  ![Snake animation](https://github.com/Luizrebelatto/Luizrebelatto/blob/output/github-contribution-grid-snake.svg)
