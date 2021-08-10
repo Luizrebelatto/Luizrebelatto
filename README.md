@@ -10,7 +10,7 @@
 • Apaixonado por desenvolvimento de software e entusiasta da criação de jogos e segurançã da informação.
   
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedor mobile e web.  
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
   
 Vá sempre além do que é esperado!!!🚀 
 
