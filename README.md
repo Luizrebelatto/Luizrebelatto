@@ -7,7 +7,7 @@
 • Graduando em Análise e Desenvolvimento de Sistema na Uniritter, cursando o  2º Semestre.<br>
 • Tenho experiência com Wordpress, Git, Github, Html e Css.  
 • No momento estudando as tecnologias: nodejs, typescript, docker <br>
-• Apaixonado por desenvolvimento de software e entusiasta da criação de jogos e segurançã da informação.
+• Apaixonado por desenvolvimento de software e segurança da informação.
   
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedor mobile e web.  
 
