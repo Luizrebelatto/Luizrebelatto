@@ -20,7 +20,7 @@ Vá sempre além do que é esperado!!!🚀
 **Contato**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-gabriel-rebelatto-bianchi-67097413b/)](https://www.linkedin.com/in/luiz-gabriel-rebelatto-bianchi-67097413b/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtolbrebelatto@gmail.com)](mailto:lbrebelatto@gmail.com)
-[![Gmail Badge](https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png)]
+[![Gmail Badge](https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png)](https://dev.to/badge/hacktoberfest-2021)
 <p align = "center">
   <a href="https://github.com/Luizrebelatto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizrebelatto&layout=compact&theme=cobalt"/></a> 
   <a href="https://github.com/Luizrebelatto"><img src="https://github-readme-stats.vercel.app/api?username=Luizrebelatto&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="Luizrebelatto"/></a>
