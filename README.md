@@ -8,6 +8,7 @@
 • Tenho experiência com Wordpress, Git, Github, Html e Css.  
 • No momento estudando as tecnologias: nodejs, typescript, docker <br>
 • Apaixonado por desenvolvimento de software e segurança da informação.
+• Estou trabalhando como Desenvolvedor Mobile. Utilizando as techs React Native, JavaScript, TypeScript, Docker, Insomnia.
   
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedor mobile e web.  
 
