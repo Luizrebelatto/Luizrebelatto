@@ -11,9 +11,6 @@
 • No momento estou como Desenvolvedor mobile na Atman Systems
 • Estou trabalhando como Desenvolvedor Mobile. Utilizando as techs React Native, JavaScript, TypeScript, Docker, Insomnia.
   
-• 🎯 Objetivo: Pretendo me tornar Desenvolvedor mobile e web.  
-
-  
 Vá sempre além do que é esperado!!!🚀 
 
 <h3 align="left">Languages and Tools:</h3>
