@@ -23,9 +23,3 @@ Vá sempre além do que é esperado!!!🚀
   <a href="https://github.com/Luizrebelatto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizrebelatto&layout=compact&theme=cobalt"/></a> 
   <a href="https://github.com/Luizrebelatto"><img src="https://github-readme-stats.vercel.app/api?username=Luizrebelatto&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="Luizrebelatto"/></a>
 </p> 
-
- ![Snake animation](https://github.com/Luizrebelatto/Luizrebelatto/blob/output/github-contribution-grid-snake.svg)
-  
-
- 
-
