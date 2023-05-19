@@ -4,12 +4,24 @@
 
 #### Prazer, Sou o Luiz Gabriel! Fascinado por desenvolver Soluções👾💻
   
-• Graduando em Análise e Desenvolvimento de Sistema na Uniritter, cursando o  3º Semestre.<br>
-• Tenho experiência com Wordpress, Git, Github, Html e Css.  
-• No momento estudando as tecnologias: nodejs, typescript, docker <br>
-• Apaixonado por desenvolvimento de software e segurança da informação.
-• No momento estou como Desenvolvedor mobile na Atman Systems
-• Estou trabalhando como Desenvolvedor Mobile. Utilizando as techs React Native, JavaScript, TypeScript, Docker, Insomnia.
+🖥️ Minhas habilidades:
+- React Native
+- Flipper
+- Scrum
+- UiKit
+- Git e Github
+- Performance de aplicativos
+- Styled-components
+- CSS
+- Context API
+- Redux
+- React Query
+
+🔧 Linguagens:
+- Javascript
+- Typescript
+- Swift
+
   
 Vá sempre além do que é esperado!!!🚀 
 
