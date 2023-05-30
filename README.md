@@ -1,8 +1,8 @@
-## Olá, Seja bem-vindo(a)!!
+## HI, Welcome!!
 
 <img align="right" src="https://github.com/Luizrebelatto/Luizrebelatto/blob/main/imagem.jpg" width="400"/>
 
-#### Prazer, Sou o Luiz Gabriel! Fascinado por desenvolver Soluções👾💻
+#### Pleasure, I'm Luiz Gabriel! Fascinated by developing Solutions👾💻
   
 🖥️ Minhas habilidades:
 - React Native
@@ -10,7 +10,7 @@
 - Scrum
 - UiKit
 - Git e Github
-- Performance de aplicativos
+- Application Performance
 - Styled-components
 - CSS
 - Context API
