@@ -4,7 +4,7 @@
 
 #### Pleasure, I'm Luiz Gabriel! Fascinated by developing Solutions👾💻
   
-🖥️ Minhas habilidades:
+🖥️ My Skills:
 - React Native
 - Flipper
 - Scrum
@@ -17,7 +17,7 @@
 - Redux
 - React Query
 
-🔧 Linguagens:
+🔧 Languages:
 - Javascript
 - Typescript
 - Swift
